@@ -20,7 +20,7 @@ import com.dto.Students;
 import com.dto.Target;
 
 //In junit, no sequence defined in which tests may be executed
-public class StreamDemo {
+public class Stream9Demo {
 
 	// Returns 0 or more objects for each object.
 

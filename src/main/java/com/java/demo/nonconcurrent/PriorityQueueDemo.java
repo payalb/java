@@ -1,9 +1,12 @@
 package com.java.demo.nonconcurrent;
 
+import org.junit.Test;
+
 public class PriorityQueueDemo {
 
-	public static void main(String[] args) {
-
+	@Test
+	public void testOne() {
+		
 	}
 
 }

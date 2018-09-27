@@ -21,7 +21,8 @@ public class Student {
 	}
 	
 	public Student clone() throws CloneNotSupportedException {
-		return (Student) super.clone();
+		return (Student) super.clone();//object clone();
+		
 	}
 	
 	@Override

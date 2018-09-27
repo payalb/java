@@ -2,7 +2,7 @@ package com.java.demo.atomic;
 
 import java.util.concurrent.atomic.AtomicReference;
 
-import com.java.demo.dto.Person;
+import com.dto.Person;
 
 public class AtomicReferenceDemo {
 
